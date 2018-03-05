@@ -6,4 +6,3 @@ The goal of that demonstration was to see:
 
 [Check it here](https://react-recipe-with-state.herokuapp.com/ "Deployed")
 
-*Note: The server may take a while to respond*
